@@ -1,0 +1,10 @@
+
+
+
+: MCU core diagnostic is not in our scope
+
+5. 20268: Will go into DSS if any fault is detected and communicate. Also will go to DSS after succesful self diagnotic till invoked to start functioning..... @Simon correct me if I'm wrong here.
+
+6. 14345: Predefined ID code 
+
+7.14354 and 14355 can be combined with both parameters in one fault
